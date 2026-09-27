@@ -1,1 +1,1 @@
-# Gully-Scoreboard-App-
+# Gully-Scoreboard-App
